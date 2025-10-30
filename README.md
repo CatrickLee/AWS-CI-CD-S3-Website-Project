@@ -58,7 +58,7 @@ jobs:
 
 This policy was the necessary final combination required to resolve a permission conflicts in the CloudFront/S3 configuration.
 
-```json
+```jsonc
 {
     "Version": "2012-10-17",
     "Statement": [
